@@ -36,8 +36,10 @@ header h2 {
     background-color: #901CAD;
 }
 
-.tab-content {
-    border: 1px solid #DDD;
-    border-top: none;
-    padding: 10px;
+#accordion a {
+    color: black;
+}
+
+#accordion a:hover {
+    text-decoration: none;
 }
