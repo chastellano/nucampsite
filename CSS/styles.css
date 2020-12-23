@@ -40,6 +40,15 @@ header h2 {
     color: black;
 }
 
-#accordion a:hover {
+#accordion a:hover, p:hover{
     text-decoration: none;
+    cursor: pointer;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
 }
